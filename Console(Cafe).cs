@@ -7,9 +7,9 @@ namespace ConsoleApp30
     {
         static void Main(string[] args)
         {
-            Shop Ebulfezle_imana_dogru = new Shop();
+            Shop Cinnabon = new Shop();
 
-            ChooseFromMenu(Ebulfezle_imana_dogru);
+            ChooseFromMenu(Cinnabon);
 
         }
 
